@@ -1,0 +1,11 @@
+# ninja log v7
+10	606	8111161393401953	CMakeFiles/digital_instruments.dir/effects.c.obj	fac6469964f26d4f
+6	637	8111161393361821	CMakeFiles/digital_instruments.dir/instrument.c.obj	91bed19d7b17c2cf
+4	219	8111162203279823	CMakeFiles/digital_instruments.dir/demo.c.obj	ff471522c9d1e102
+220	722	8111162205437645	digital_instruments.exe	89432ed529c2fc60
+4	173	8111162719499228	CMakeFiles/digital_instruments.dir/demo.c.obj	ff471522c9d1e102
+174	495	8111162721225200	digital_instruments.exe	89432ed529c2fc60
+3	153	8111162982826311	CMakeFiles/digital_instruments.dir/demo.c.obj	ff471522c9d1e102
+153	487	8111162984320562	digital_instruments.exe	89432ed529c2fc60
+3	144	8111163682087909	CMakeFiles/digital_instruments.dir/demo.c.obj	ff471522c9d1e102
+145	440	8111163683510689	digital_instruments.exe	89432ed529c2fc60

@@ -1,0 +1,7 @@
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/digital_instruments.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/edit_cache.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/list_install_components.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/install.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/install/local.dir
+C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/install/strip.dir

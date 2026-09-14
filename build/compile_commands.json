@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/Beast/Desktop/digital_instruments/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -IC:/msys64-ucrt64-custom/include -g -std=gnu2x -o CMakeFiles\\digital_instruments.dir\\demo.c.obj -c C:\\Users\\Beast\\Desktop\\digital_instruments\\demo.c",
+  "file": "C:/Users/Beast/Desktop/digital_instruments/demo.c",
+  "output": "C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/digital_instruments.dir/demo.c.obj"
+},
+{
+  "directory": "C:/Users/Beast/Desktop/digital_instruments/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -IC:/msys64-ucrt64-custom/include -g -std=gnu2x -o CMakeFiles\\digital_instruments.dir\\instrument.c.obj -c C:\\Users\\Beast\\Desktop\\digital_instruments\\instrument.c",
+  "file": "C:/Users/Beast/Desktop/digital_instruments/instrument.c",
+  "output": "C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/digital_instruments.dir/instrument.c.obj"
+},
+{
+  "directory": "C:/Users/Beast/Desktop/digital_instruments/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -IC:/msys64-ucrt64-custom/include -g -std=gnu2x -o CMakeFiles\\digital_instruments.dir\\effects.c.obj -c C:\\Users\\Beast\\Desktop\\digital_instruments\\effects.c",
+  "file": "C:/Users/Beast/Desktop/digital_instruments/effects.c",
+  "output": "C:/Users/Beast/Desktop/digital_instruments/build/CMakeFiles/digital_instruments.dir/effects.c.obj"
+}
+]
