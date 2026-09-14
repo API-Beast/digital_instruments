@@ -30,12 +30,12 @@ void reverb_process(reverb* r, float* samples, int num_samples)
         // Read from delay lines (multiple echoes)
         for(int j = 0; j < 4; j++)
         {
-            output += r->buffer[(r->write_pos - r->read_pos[j]) & 4095] * 0.25f;
+            output += r->buffer[(r->write_pos - r->read_pos[j]) % 4096] * 0.25f;
         }
         
         // Write input + feedback to delay line
         r->buffer[r->write_pos] = input + output * r->feedback;
-        r->write_pos = (r->write_pos + 1) & 4095;
+        r->write_pos = (r->write_pos + 1) % 4096;
         
         // Mix dry and wet signals
         samples[i] = input * (1.0f - r->wet_dry_mix) + output * r->wet_dry_mix;
